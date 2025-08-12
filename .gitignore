@@ -15,15 +15,7 @@ admin-web/.env.development.local
 admin-web/.env.test.local
 admin-web/.env.production.local
 
-# React Native (mobile-app)
-mobile-app/android/.gradle/
-mobile-app/android/app/build/
-mobile-app/ios/Pods/
-mobile-app/ios/build/
-mobile-app/.expo/
-mobile-app/.expo-shared/
-mobile-app/expo-debug.log
-mobile-app/expo-error.log
+
 
 # VSCode
 .vscode/
